@@ -1,0 +1,30 @@
+{
+	"name": "fcc-exercise-tracker",
+	"version": "0.1.0",
+	"description": "A REST API project, part of Free Code Camp's curriculum",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"body-parser": "latest",
+		"cors": "latest",
+		"express": "latest",
+		"moment": "^2.22.2",
+		"mongodb": "latest",
+		"mongoose": "latest",
+		"shortid": "latest"
+	},
+	"engines": {
+		"node": "latest"
+	},
+	"repository": {
+		"url": "https://gomix.com/#!/project/welcome-project"
+	},
+	"license": "MIT",
+	"keywords": [
+		"node",
+		"gomix",
+		"express"
+	]
+}
